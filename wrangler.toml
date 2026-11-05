@@ -1,0 +1,8 @@
+name = "nuevo-pos-api"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "nuevo_pos_db"
+database_id = "e666c03b-ecd4-4061-897a-186fe2bee7ce"
